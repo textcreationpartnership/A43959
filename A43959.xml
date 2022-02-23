@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reasonableness and necessity of the Christian faith manifested in a sermon / preach'd before the right honourable the lord mayor at Guild-Hall Chapel, Oct. 17, 1697, by John Hitchcock ...</title>
+            <author>Hitchcock, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43959</idno>
+            <idno type="STC">Wing H2193</idno>
+            <idno type="STC">ESTC R178053</idno>
+            <idno type="EEBO-CITATION">15741955</idno>
+            <idno type="OCLC">ocm 15741955</idno>
+            <idno type="VID">104575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:65)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reasonableness and necessity of the Christian faith manifested in a sermon / preach'd before the right honourable the lord mayor at Guild-Hall Chapel, Oct. 17, 1697, by John Hitchcock ...</title>
+                  <author>Hitchcock, John.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warrren for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews XI, 6 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104575:1" rendition="simple:additions"/>
+            <p>The Reaſonableneſs and Neceſſity of the Chriſtian Faith Manifeſted.</p>
+            <p>
+               <hi>IN A SERMON Preach'd before the Right Honourable THE Lord Mayor, At</hi> GUILD-HALL <hi>Chapel,</hi> Oct. <hi>17. 1697.</hi>
+            </p>
+            <p>
+               <hi>By</hi> JOHN HITCHCOCK, <hi>M. A.</hi>
+            </p>
+            <p>LONDON, <hi>Printed by</hi> Tho. Warren <hi>for</hi> Walter Kettilby <hi>at the</hi> Biſhop<hi>'s</hi>-Head <hi>in St.</hi> Paul<hi>'s Church-Yard, 1697.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:104575:2"/>
+            <pb n="1" facs="tcp:104575:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Heb. xi. 6. the former Part of the Verſe.</hi>
+                  </bibl>
+                  <p>But without Faith it is impoſſible to pleaſe him.</p>
+               </q>
+            </epigraph>
+            <p>THis Chapter is a Panegyrick upon Faith, and all its holy Champions and Martyrs, from the very begin<g ref="char:EOLhyphen"/>ning of the World down to the Apoſtles time. In the firſt Verſe we have a deſcrip<g ref="char:EOLhyphen"/>tion of Faith in its general Notion; <hi>It is the ſubſtance of things hoped for, the evi<g ref="char:EOLhyphen"/>dence of things not ſeen:</hi> that is, Faith is a confident expectation of thoſe good things we hope for, by vertue of a Promiſe from God; and a firm perſwaſion of the truth of thoſe things, whereof we have no ſenſible Evidence, by vertue of a Revelation from God. In the four following Verſes we have a more particular account of Faith, and how pleaſing it is to God, in ſome eminent acts and examples. And then this Propoſition is laid down as a ſtanding Maxim in Religion, which concerns every Man, and will hold true to the end of the World; <hi>Without Faith it is impoſſible to pleaſe God.</hi>
+            </p>
+            <pb n="2" facs="tcp:104575:3"/>
+            <p>My Diſcourſe upon this ſubject ſhall con<g ref="char:EOLhyphen"/>ſiſt of theſe four Parts.</p>
+            <list>
+               <item>I. I will explain the Nature of Reli<g ref="char:EOLhyphen"/>gious Faith.</item>
+               <item>II. Evince the Reaſonableneſs of ſuch a Faith.</item>
+               <item>III. Shew the Neceſſity of it to ren<g ref="char:EOLhyphen"/>der us acceptable to God.</item>
+               <item>IV. Repreſent the Power and Influence of Faith upon our Lives.</item>
+            </list>
+            <p n="1">I. As to the nature of Religious Faith, it is no more than the Aſſent of the Mind to the truth of any Revealed Religion. This takes in the Revelation of God by <hi>Moſes</hi> to the Jews, and alſo that other by Chriſt to all the World; both which are contained in the Writings of the Old and New Teſta<g ref="char:EOLhyphen"/>ment.</p>
+            <p>I will ſpeak to the latter at this time, be<g ref="char:EOLhyphen"/>ing the laſt and perfect Revelation of God's Will to Mankind, and that in which we Chriſtians are more eſpecially concerned.</p>
+            <p>And that we have all the reaſon in the World to believe this Revelation, to enter<g ref="char:EOLhyphen"/>tain the Chriſtian Religion in our Minds
+<pb n="3" facs="tcp:104575:3"/>with a firm belief of the truth of it, I ſhall now make appear: which was the ſecond Thing Propoſed.</p>
+            <p>And I will only mention a few Argu<g ref="char:EOLhyphen"/>ments which I think are clear and convin<g ref="char:EOLhyphen"/>cing.</p>
+            <p>
+               <hi>Firſt,</hi> The whole Jewiſh Religion proves the truth of the Chriſtian. For all the Types and Prophecies relating to the Meſſias were compleatly verified and fulfilled in Chriſt: And it is impoſſible they ſhould ever be applied to any other Perſon. Which is an unanſwerable Argument for his being the Meſſias, and conſequently for the Truth of his Religion.</p>
+            <p>
+               <hi>Secondly,</hi> The Hiſtory of our Saviour's Life and Miracles comes to us as well at<g ref="char:EOLhyphen"/>teſted, and with as good Authority, as any Hiſtory in the World. It was Penned part<g ref="char:EOLhyphen"/>ly by ſuch as were his conſtant Companions and Eye-Witneſſes of his Actions, and partly by ſuch as had the matters of Fact from Eye-Witneſſes. And theſe were all Men of unqueſtioned Integrity: Nay they had the Teſtimony of God himſelf, the Power of working Miracles, for their Honeſty: And at laſt for a confirmation of the Truth of
+<pb n="4" facs="tcp:104575:4"/>what they had ſaid, they willingly laid down their Lives.</p>
+            <p>
+               <hi>Thirdly,</hi> The Writings of the Apoſtles and Evangeliſts were carefully preſerved by the Firſt Chriſtians: Copies of them were faithfully taken, and Tranſlations diligently made. And if the Tradition of the whole Church be of any weight, we are ſure that we have the Writings which contain our Religion, without any Loſs, or Corrup<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Fourthly,</hi> The Religion of Chriſt proſper<g ref="char:EOLhyphen"/>ed in the World to the ruin of all other Re<g ref="char:EOLhyphen"/>ligions. Neither Jews nor Gentiles, neither Learning nor Power could ſtop its progreſs: but it made its way through the ſtrongeſt oppoſition, Conquered all the Prejudices and Intereſts of Mankind, and triumph'd over all the Malice, the Cunning, and Force of its Enemies. Which it could ne<g ref="char:EOLhyphen"/>ver have done, if the Providence of God had not moſt illuſtriouſly appeared for it, and attended the Preaching of it with an Extraordinary Bleſſing and Influence upon the Minds of Men.</p>
+            <p>
+               <hi>Laſtly,</hi> The Chriſtian Religion carries the Evidence of its Divine Original in its
+<pb n="5" facs="tcp:104575:4"/>own Nature and Conſtitution. For it pro<g ref="char:EOLhyphen"/>poſeth a Spiritual and Rational Worſhip, ſuch as is moſt agreeable to the Nature of God, and Reaſon of Man, in oppoſition to all Idolatry and uſeleſs Ceremonies. It pre<g ref="char:EOLhyphen"/>ſcribes the beſt Rules of Life, teaches us in<g ref="char:EOLhyphen"/>ternal Righteouſneſs and perfect Vertue, which if we practiſe, we muſt be Happy. And then it offers the ſtrongeſt Motives to the performance of our Duty, Everlaſting Rewards and Puniſhments. All this it does with the greateſt accommodation and ſim<g ref="char:EOLhyphen"/>plicity, the Doctrine being framed for the uſe of all Men, is adapted to the Under<g ref="char:EOLhyphen"/>ſtandings of all: 'tis ſuited to all Relations, and fitted to all Capacities: No Man is left to ſeek his Duty, or a loſs to under<g ref="char:EOLhyphen"/>ſtand it.</p>
+            <p>What now can be more worthy of our Belief and Entertainment than this Excel<g ref="char:EOLhyphen"/>lent Religion? of the Truth whereof we have the higheſt Moral Evidence, the beſt Proof that the thing will bear: and it is very unreaſonable to expect any other. He that will not believe a thing that is only morally certain, and does not exclude all doubt, muſt reject all ancient Hiſtory, and
+<pb n="6" facs="tcp:104575:5"/>believe nothing but what he ſees: which is contrary to the Judgment and Practice of Mankind. And if Scepticks were to ma<g ref="char:EOLhyphen"/>nage their Temporal Affairs with the ſame humour that they treat Religion, they would be lookt upon as Men out of their Wits, and only fit to live in a dark room by themſelves.</p>
+            <p>Beſides, a Faith that is grounded upon ſenſible Evidence, and excludes all manner of doubt, has nothing in it that is excellent or rewardable. I can ſee no more Vertue in ſuch a Faith, than in believing the truth of Colours, or Mathematical Demonſtrati<g ref="char:EOLhyphen"/>ous: There is no reſiſting ſuch evident Truths, and a Man cannot but believe them. Which is the reaſon that I do not wonder at thoſe Mens believing in Chriſt, who heard him ſpeak, and ſaw him act af<g ref="char:EOLhyphen"/>ter his Divine and aſtoniſhing manner. And Chriſt himſelf ſeem'd to make but little ac<g ref="char:EOLhyphen"/>count of ſuch a Faith, when he ſaid unto <hi>Thomas,</hi> Joh. 20.29. <hi>Becauſe thou haſt ſeen me, thou haſt believed: bleſſed are they that have not ſeen, and yet have believed.</hi> Intima<g ref="char:EOLhyphen"/>ting that ſuch a Faith as <hi>Thomas</hi>'s is no more than a Mans believing his Senſes,
+<pb n="7" facs="tcp:104575:5"/>and deſerves no Commendation or Re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>But ſince the Proofs of our Religion are only Moral, ſufficient to induce, but not to inforce an Aſſent: Since the things propo<g ref="char:EOLhyphen"/>ſed to our belief, require a diligent appli<g ref="char:EOLhyphen"/>cation and ſtudy, before we can well under<g ref="char:EOLhyphen"/>ſtand them our ſelves, or give a good ac<g ref="char:EOLhyphen"/>count of them to others: This makes our Faith to be a conſiderate and free act of the Mind, and as ſuch to be praiſe-worthy and capable of reward.</p>
+            <p>We cannot give a reaſon of our Faith to others, as the Apoſtle adviſeth, unleſs we underſtand the grounds and reaſons of it our ſelves: And we cannot do this without the exerciſe of our Faculties in the exami<g ref="char:EOLhyphen"/>nation of them; as, comparing the Quality of our Saviour's Perſon with the Character of the Meſſias delivered by the Prophets; weighing the credibility of the Apoſtles Teſtimony, and the Authority of the Church's Tradition, by which the Revelation of Chriſt was handed down to us.</p>
+            <p>Theſe and the other Arguments of our Religion muſt be duly examined, before we can be convinced of the Truth of it, and
+<pb n="8" facs="tcp:104575:6"/>believe it as Men. An Implicit is an irra<g ref="char:EOLhyphen"/>tional Faith, and a blind Aſſent to Religion is a contempt of Reaſon.</p>
+            <p>God indeed does not expect the ſame uſe of Reaſon, and the ſame degree of convicti<g ref="char:EOLhyphen"/>on in matters of Religion from all Men; be<g ref="char:EOLhyphen"/>cauſe their Faculties and Education are both different: He conſiders the weakneſs of un<g ref="char:EOLhyphen"/>derſtanding in many, and the want of Edu<g ref="char:EOLhyphen"/>cation in more: But yet he expects that Men make uſe of that Reaſon which he has gi<g ref="char:EOLhyphen"/>ven them, and examine the Arguments, as far as they are able, which attend the Reli<g ref="char:EOLhyphen"/>gion he has revealed. And if Men would do this with an honeſt Mind, and a ſincere de<g ref="char:EOLhyphen"/>ſire to know God's Will, they would ſee no juſt cauſe to doubt of Chriſtianity, but would embrace it with a rational choice, and in that choice think themſelves happy.</p>
+            <p>As to the offence that ſome take at a Poor and Crucified Saviour, I have this to ſay, That there is nothing in it that is unſeemly, of unbecoming the Majeſty of the Son of God; but that it is rather ſuch a ſtate, as was both neceſſary and ſuitable to the office of our Redeemer.</p>
+            <pb n="9" facs="tcp:104575:6"/>
+            <p>For the clearing whereof two things are to be conſidered.</p>
+            <p n="1">1. That the Juſtice of God was to be ſa<g ref="char:EOLhyphen"/>tisfied for the Sins of Mankind. And that was to be done by the Death of a Divine Perſon in our Nature, according to the De<g ref="char:EOLhyphen"/>claration of the Divine Will. God himſelf foretold by his Prophets, that the Redemp<g ref="char:EOLhyphen"/>tion of the World ſhould be wrought by his Incarnate Son, under the Myſtical Name of <hi>Immanuel:</hi> and that this Great Work ſhould be effected in a way of Expiation. Chriſt did all that could be done to prove himſelf the Perſon deſign'd of old for this Office of Redeemer: He manifeſted his Divinity by illuſtrious Miracles, and the ſatisfaction of his Death upon the Croſs by his Triumphant Reſurrection.</p>
+            <p n="2">2. It is alſo to be conſidered, that a Per<g ref="char:EOLhyphen"/>fect Pattern of Vertue was to be ſet for the imitation of Mankind: and that muſt have been done in a ſtate of Poverty and Suffer<g ref="char:EOLhyphen"/>ing. Men are naturally more apt to live by Example, than by Rule; becauſe Example is a viſible thing, and does powerfully in<g ref="char:EOLhyphen"/>cline the Will through the Senſes. The Beauty of Vertue is more lively and charm<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:104575:7"/>in Practice, than in Idea. And there<g ref="char:EOLhyphen"/>fore an Example of Conſummate Vertue was highly requiſite and uſeful to Men for the more correct Conduct of their Lives. And ſuch an Example was the Life of Chriſt: It was a Perfect Original of all Vertue. He was humble and condeſcending, though he was he Son of God: He complied with the Infirmities and Weakneſſes of Humane Nature; was meek and patient under af<g ref="char:EOLhyphen"/>fronts and injuries; did the greateſt Good for the greateſt Evil; reſign'd himſelf up to the diſpoſal of his Heavenly Father, and ſubmitted to his Will in every thing. All which excellent and uſeful Vertues Chriſt could not have exerciſed, if he had not li<g ref="char:EOLhyphen"/>ved in a mean Condition, and undergone want and pain. The Perſon of a Prince, and a Proſperous Condition, would not have ſuited the Deſign of Chriſt in giving an Ex<g ref="char:EOLhyphen"/>ample to Mankind: But by appearing un<g ref="char:EOLhyphen"/>der ſuch Circumſtances as he did, by being the Son of God in the form of a Servant, he was an Example to the Great and Rich, as well as to the Poor and Diſtreſſed: he pra<g ref="char:EOLhyphen"/>ctiſed the Vertues that belong to every Con<g ref="char:EOLhyphen"/>dition, and led every Man the way to the performance of Duty.</p>
+            <pb n="11" facs="tcp:104575:7"/>
+            <p>As to thoſe Doctrines, which go under the name of Myſteries, <hi>viz.</hi> the Doctrine of the Trinity, and of the Incarnation; why ſhould we diſlike them the worſe for being Myſteries, when there is nothing in the World but what has ſomething in it un<g ref="char:EOLhyphen"/>known to us? Nay although we could per<g ref="char:EOLhyphen"/>fectly underſtand the natures of all Created Beings, yet the Nature of God would ſtill remain Incomprehenſible: There is an in<g ref="char:EOLhyphen"/>finite diſtance and diſproportion between his Perfections and our Faculties; and it is as impoſſible for us to comprehend God, us for a Bucket to contain the Ocean. It is not then a Doctrine's being above reaſon, but contrary to reaſon, that makes it unreaſon<g ref="char:EOLhyphen"/>able for us to believe it. All the Parts of Revelation are equally True, and an obſcure Doctrine has as good Authority as a Plainer. Since therefore the Goſpel diſcovers to us, that there are three diſtinct Perſons in the Godhead, the Father, Son, and Holy Ghoſt, to which the Name and Attributes of God are expreſly given; and alſo that the ſecond Perſon in this Bleſſed Trinity did freely take our Nature that he might be our Redeemer, and ſo is both God and Man in one Perſon;
+<pb n="12" facs="tcp:104575:8"/>we have the ſame reaſon and obligation to believe theſe Doctrines, as any other Do<g ref="char:EOLhyphen"/>ctrine in the Goſpel.</p>
+            <p>Thus much to the Reaſonableneſs of our Chriſtian Faith.</p>
+            <p>I proceed, in the third place, to ſhew the Neceſſity of this Faith to render us accept<g ref="char:EOLhyphen"/>able to God. <hi>Without Faith it is impoſſible to pleaſe God.</hi> Now the neceſſity of this Faith is founded in a neceſſity of the Goſpel Reve<g ref="char:EOLhyphen"/>lation.</p>
+            <p>And this will be made evident by clear<g ref="char:EOLhyphen"/>ing theſe two Points.</p>
+            <list>
+               <item>1. The neceſſity of a Revelation in ge<g ref="char:EOLhyphen"/>neral.</item>
+               <item>2. The Inſufficiency of all Revelation be<g ref="char:EOLhyphen"/>fore the Goſpel for the Salvation of Man<g ref="char:EOLhyphen"/>kind.</item>
+            </list>
+            <p n="1">1. The neceſſity of a Revelation in ge<g ref="char:EOLhyphen"/>neral appears from the impoſſibility of plea<g ref="char:EOLhyphen"/>ſing God, and obtaining Happineſs without one. For by Sin we loſt the Favour of God, and forfeited Immortal Life: And although we know by the Light of Nature that God muſt be Atoned, before we could be Reſtored; yet we could not from thence learn, whether God would be Atoned or
+<pb n="13" facs="tcp:104575:8"/>not, and what kind of Atonement he would accept of. This depended upon his Free Grace, and therefore could only be diſco<g ref="char:EOLhyphen"/>ver'd to us by himſelf. Had we continued Innocent, there would have been no need of any Revelation: for the Light of Na<g ref="char:EOLhyphen"/>ture was then a ſure guide, both to Duty and Immortality: But by breaking the Law of our Creation, we incurr'd the Divine Diſpleaſure, and became Mortal: And how to get out of this unhappy condition, na<g ref="char:EOLhyphen"/>ture could not teach us: There was no other way, but to begin again upon a New Covenant: which was wholly at the plea<g ref="char:EOLhyphen"/>ſure, and in the breaſt of God, and ſo was a matter of pure Revelation. Men may talk of Natural Knowledge in the buſineſs of Religion, and magnifie it as much as they think fit; but it will ſerve only in a ſtate of Innocence. When Sin and Corruption take place, Natural Knowledge fails and va<g ref="char:EOLhyphen"/>niſhes into Ignorance. Religion in ſuch a ſtate muſt be a ſupernatural Thing, and ſupernaturally Known. Some things muſt then be Revealed, which could never be known by the Light of Nature; ſuch as the
+<pb n="14" facs="tcp:104575:9"/>Inclination of God to forgive Sinners, and the means of appeaſing his wrath, and the manner of ſerving and pleaſing him. Other things muſt alſo be Revealed, which though knowable by the Light of Nature, yet through the Degeneracy of Mankind were almoſt utterly loſt and extinct; ſuch are right Notions of God and his Providence, the Principles of Morality, and Diſtinctions of Vertue and Vice, together with the Im<g ref="char:EOLhyphen"/>mortality of Humane Souls, and Another Life after This. Theſe things are neceſſary to be Revealed, when the Nature of Man is Lapſed and Depraved. And if we were to take a view of the Religion and Mora<g ref="char:EOLhyphen"/>lity of the Gentile World, we ſhould ſoon be convinced, that nothing but the Light of Revelation, and the Power of Divine Grace, could ever recover them out of their dark and miſerable Eſtate of Ignorance and Vice. Thus the neceſſity of ſome Revela<g ref="char:EOLhyphen"/>tion is grounded upon the Fall and Dege<g ref="char:EOLhyphen"/>neracy of Mankind. For becauſe ſome things were abſolutely neceſſary to Salva<g ref="char:EOLhyphen"/>tion, which Men could have no natural knowledge of, as I obſerved and inſtanced
+<pb n="15" facs="tcp:104575:9"/>juſt before; therefore it was neceſſary that thoſe things ſhould be made known in a ſupernatural way, that is, by Revelation. This is a fair ſtep toward proving the ne<g ref="char:EOLhyphen"/>ceſſity of the Revelation of the Goſpel. And it will effectually be done, if I can make good my ſecond Point; which is,</p>
+            <p>That all Revelation before the Goſpel was inſufficient for the Salvation of Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>For the proof whereof I will offer but two Arguments at this time.</p>
+            <p>
+               <hi>Firſt,</hi> All the Revelation that was before the Goſpel, was given only to the Jews, a People conſiderable at firſt for nothing but the Favour of God; who communicated his Mind to them alone, and incloſed the Religion he eſtabliſh'd within the Pale of their Church. And what was the reſt of the World the better for this narrow Re<g ref="char:EOLhyphen"/>velation? What could a Revealed Religion ſignifie to thoſe, to whom it never was pro<g ref="char:EOLhyphen"/>pounded, and for whom it was not intend<g ref="char:EOLhyphen"/>ed? A Revelation that aims at the Hap<g ref="char:EOLhyphen"/>pineſs of Mankind, muſt be as extenſive and univerſal as its deſign: it muſt ſhine to all
+<pb n="16" facs="tcp:104575:10"/>the World, and diffuſe it ſelf as far and wide as Humane Nature. But now the Re<g ref="char:EOLhyphen"/>ligion of the Jews was to ſpread no farther; which is an Argument of its Inſufficiency: For we cannot think that God would have confined it to That one People, if it had been fitted for the Salvation of Man<g ref="char:EOLhyphen"/>kind.</p>
+            <p>
+               <hi>Secondly,</hi> The Religion which God gave the Jews, was imperfect. I will inſtance only in their Worſhip; which had no Ex<g ref="char:EOLhyphen"/>cellency or Uſefulneſs any farther than as it bore a relation to Chriſt <hi>The Law made no<g ref="char:EOLhyphen"/>thing perfect;</hi> ſays the Author to the <hi>Heb.</hi> 7.19. And 10.1. It could not with all it Sacrifices make the Comers thereunto per<g ref="char:EOLhyphen"/>fect: that is, expiate their Sins ano ſan<g ref="char:EOLhyphen"/>ctifie their Nature. The whole Body of the Jewiſh Worſhip was meer ſhadow and ru<g ref="char:EOLhyphen"/>diment, deſign'd for no more than to pre<g ref="char:EOLhyphen"/>figure Chriſt, and train Men up for his Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Beſides, this Religion of the Jews was temporary, and of a limited duration. It was not framed for perpetuity, nor had it a Conſtitution to laſt always. It was to
+<pb n="17" facs="tcp:104575:10"/>continue no longer than till the time of Re<g ref="char:EOLhyphen"/>formation; that is, till Chriſt came, who was to ſet all things right between God and Man, and finiſh a Religion that ſhould need no Amendments. Here therefore we muſt ſix for Salvation. Nature, you ſee, could do nothing towards it; and Judaiſm but little: but the Goſpel wants nothing for effecting it. It aſſures us of Univerſal Redemption and Grace by Jeſus Chriſt, and tells us plainly what we muſt Believe and Do to be ſaved. And to prevent all Ex<g ref="char:EOLhyphen"/>pectations of another Revelation, the Goſ<g ref="char:EOLhyphen"/>pel ſpeaks its own Perfection, and appro<g ref="char:EOLhyphen"/>priates the Terms of Salvation to it ſelf.</p>
+            <p>But if Men cannot be ſaved any other way than by the Faith of the Goſpel, what will become of thoſe, who never did, nor could hear of a Meſſias before Chriſt came, nor ſince of Him? I Anſwer,</p>
+            <p>They muſt be left to the Mercy of God: for it is impoſſible to determine any thing about them. To ſay that they muſt un<g ref="char:EOLhyphen"/>avoidably be Damned, reflects horribly up<g ref="char:EOLhyphen"/>on the Goodneſs and Juſtice of God. To ſay that they may be ſaved without the
+<pb n="18" facs="tcp:104575:11"/>Faith of Chriſt, the Saviour of the World, is againſt the Word of God. To ſay that the Knowledge of Chriſt might, by a par<g ref="char:EOLhyphen"/>ticular Revelation, be communicated to them ſome time before they died, is to ſpeak by gueſs, and without a Warrant. It muſt therefore be left a ſecret till the Day of Judgment. But now this is as true as the Goſpel it ſelf, That whoſoever re<g ref="char:EOLhyphen"/>jecteth the Goſpel, when it is propounded to him in a ſufficient manner, ſhall himſelf be rejected at the Laſt Day; he cannot poſſibly eſcape the Sentence of Damnation: For this is the unalterable Decree, which Chriſt ſubjoins to the Commiſſion he gave his Apoſtles, <hi>Mar.</hi> 16.15, 16. <hi>And he ſaid unto them, Go ye into all the World, and preach the Goſpel to every Creature:</hi> And then fol<g ref="char:EOLhyphen"/>lows the Decree, <hi>He that believeth, and is baptized, ſhall be ſaved; but he that believeth not, ſhall be damned.</hi>
+            </p>
+            <p>Thus I have explained the nature of Re<g ref="char:EOLhyphen"/>ligious Faith in general, and proved the Reaſonableneſs and Neceſſity of the Chri<g ref="char:EOLhyphen"/>ſtian Faith.</p>
+            <pb n="19" facs="tcp:104575:11"/>
+            <p>There remains but one Thing more for me to do: which is, To ſhew the Influence of Faith upon our Practice.</p>
+            <p>And for a quick diſpatch, I will conſider Faith only as it reſpects Things Future, the different States of Good and Bad Men in the other World.</p>
+            <p>And what an Operative Principle this Faith is, will appear in theſe three parti<g ref="char:EOLhyphen"/>culars.</p>
+            <list>
+               <item>1. It is the plaineſt Principle for all Men to live and act by. The innate Lovelineſs of Vertue, and its agreeableneſs with our Rational Nature; the Excellency of the Chriſtian Law, and its conduciveneſs to our well-being in this World; Theſe are very great Truths, and may be uſed as Argu<g ref="char:EOLhyphen"/>ments to perſwade Men to a Life of Vertue and Obedience: yet they cannot be made ſo plain to the common People, as to lye level with their low underſtandings: There is ſomething in them too Philoſophical and Fine, to be perceived by rude undiſciplined Minds. But Eternal Happineſs, and Eter<g ref="char:EOLhyphen"/>nal Miſery are ſuch Plain Things, that every Man has a quick apprehenſion of them, and
+<pb n="20" facs="tcp:104575:12"/>is powerfully moved by them. And this is true, although Men do not rightly under<g ref="char:EOLhyphen"/>ſtand, wherein the Happineſs, or Miſery of the next Life does conſiſt. For whatever the Natures of thoſe things are, 'tis the Cer<g ref="char:EOLhyphen"/>tainty of the Things themſelves that makes the impreſſion: and the Certainty of them is grounded upon Divine Revelation. No Man is ſo ignorant or ſtupid, as not to know what it is to be Happy, and what it is to be Miſerable: for he has a natural perception and experience of thoſe things that make him ſo. And therefore when the Word of God tells him, that he ſhall be for ever Happy, or for ever Miſerable in another World, according as he has lived well, or ill in this; a firm belief of ſo plain a Revelation muſt needs have a Influence upon his Life, correſpondent to his Deſire of Happineſs, and Dread of Miſery.</item>
+               <item>2ly, Faith has a direct and powerful In<g ref="char:EOLhyphen"/>fluence upon our Practice, by being the E<g ref="char:EOLhyphen"/>vidence of things not ſeen: not by turning inviſible things into viſible, but by rendring them as certain and indubitable to our un<g ref="char:EOLhyphen"/>derſtanding, and ſo as certain Grounds and
+<pb n="21" facs="tcp:104575:12"/>Principles to act by, as any thing that we ſee with our Eyes of Fleſh. And this Faith does, It brings Heaven and Hell within the Souls view, and preſents them to the Mind in ſo efficacious a manner, that a true Believer is as much Influenced by them, as Worldly Men are by the Objects of Sence: Theſe Men are acted altogether by the Impreſſions of Senſible Things, and without looking any further, purſue a Life of Senſe. And ſo the Man of Faith has the other World in his Eye, and by vertue of his Faith, lives not only for that World, but in it: His Converſation is already in that Heaven, which he believes and expects.</item>
+               <item>3ly and <hi>laſtly,</hi> The Things of the other World, which Faith gives us a proſpect of, are of ſuch vaſt conſequence, that they can<g ref="char:EOLhyphen"/>not but have a mighty force upon us. All the Pleaſures and Pains of this Life are in<g ref="char:EOLhyphen"/>conſiderable when compared with thoſe of the next. Heaven and Hell have nothing in them that is Little: In thoſe Places are fulneſs of Joy, and extremity of Pain, and both Everlaſting. And who can think of theſe things without the greateſt Concern?
+<pb n="22" facs="tcp:104575:13"/>Or how is it poſſible for a Man to believe them heartily, and yet take no care to pleaſe that God, in whoſe Power it is to deter<g ref="char:EOLhyphen"/>mine his Everlaſting State? 'tis for want of this Faith that Men live without concern or care for hereafter: For as nothing can be compared with Heaven and Hell, ſo nothing can affect us like them.</item>
+            </list>
+            <p>In ſhort, A true Faith is the only ſure Principle of a Good Life. No Temporal intereſt or conſideration is great enough to ſecure our Vertue. But Eternity adds ſuch a weight both to Happineſs and Miſery, that nothing can more firmly engage us in the Fear and Service of God, than the Belief of it. Under the Influence whereof we cannot Live amiſs: And <hi>without</hi> this <hi>Faith 'tis im<g ref="char:EOLhyphen"/>poſſible</hi> to Live ſo as <hi>to Pleaſe God.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104575:13"/>
+            <head>Books Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s-<hi>Head</hi> in St. <hi>Paul's</hi> Church-Yard.</head>
+            <p>A Defence of <hi>Revealed Religion</hi> in ſix Sermons upon <hi>Rom.</hi> 1.16. Wherein it is clearly and plainly ſhewn, that no Man can poſſibly have any real ground or reaſon to be aſham'd of Chriſtianity. By <hi>Henry Hallywel,</hi> Maſter of Arts, and Vicar of <hi>Cowfold</hi> in <hi>Suſſex.</hi>
+            </p>
+            <p>An Eſſay to revive the neceſſity of the Ancient Charity, and Piety; wherein God's right in our Eſtates, and our Obligations to maintain his Service, Religion and Charity is demonſtrated and defended againſt the pretences of Covetouſneſs and Appro<g ref="char:EOLhyphen"/>priation, in two Diſcourſes; Written to a Perſon of Honour and Vertue. By <hi>George Burghope,</hi> Rector of <hi>Little Gaddeſden, Com. Hartford,</hi> and Chaplain to the Right Honourable <hi>John,</hi> Earl of <hi>Bridgwater.</hi>
+            </p>
+            <p>The Principles of the <hi>Cyprianick</hi> Age, with regard to the Epiſcopal Power and Juriſdiction, aſſerted and recommended from the Genuine Writings of St. <hi>Cy<g ref="char:EOLhyphen"/>prian</hi> himſelf, and his Contemporaries, by which it is made evident, that the Vindicator of the Kirk of <hi>Scotland</hi> is obliged by his own conceſſions to acknow<g ref="char:EOLhyphen"/>ledge, that he and his Aſſociates are <hi>Schiſmaticks:</hi> In a Letter to a Friend. By <hi>J. S.</hi>
+            </p>
+            <p>Six Sermons preached (moſt of them) at St. <hi>Maries</hi> in <hi>Cambridge.</hi> By <hi>Robert Needham,</hi> M. A. late Fel<g ref="char:EOLhyphen"/>low of <hi>Queen</hi>'s <hi>College</hi> in <hi>Cambridge.</hi>
+            </p>
+            <pb facs="tcp:104575:14"/>
+            <p>Six Sermons preached before the late incompara<g ref="char:EOLhyphen"/>ble Princeſs Queen <hi>Mary,</hi> at <hi>Whitehall;</hi> with ſeveral Additions and large Annotations to the Diſcourſe of Juſtification by Faith. By <hi>George Bright,</hi> D. D. Dean of St. <hi>Aſaph,</hi> and Chaplain in Ordinary to his Majeſty.</p>
+            <trailer>The End of the Catalogue.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
